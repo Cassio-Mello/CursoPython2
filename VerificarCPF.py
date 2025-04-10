@@ -28,6 +28,7 @@ cpf = '746.824.890-72'
 
 cpf_limpo = cpf.replace('.','').replace('-','')
 
+
 nove_digitos_cpf = cpf_limpo[0:9]
 
 
